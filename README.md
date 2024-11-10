@@ -12,14 +12,14 @@ The course aims to provide a balance between theory and hands-on experience, gui
 ## Course Structure
 
 The course is divided into three primary sessions:
-	1.	Session 1: Introduction to NLP
+1. Session 1: Introduction to NLP
  * NLP problems, tokenization, and preprocessing
  * Introduction to RNN models
  * Practical exercises using tokenizers and basic NLP models
-	2.	Session 2: Fine-Tuning NLP Models
-   * Understanding BERT and Transformer architectures
+2. Session 2: Fine-Tuning NLP Models
+* Understanding BERT and Transformer architectures
 * Practical hands-on fine-tuning with BERT
-	3.	Session 3: Optimization and Model Evaluation
+3. Session 3: Optimization and Model Evaluation
 * Advanced model optimization techniques
 * Practical tasks with multiple small exercises focusing on optimizing models for performance
 
